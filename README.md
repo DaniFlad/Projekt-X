@@ -50,8 +50,7 @@ Mitglieder:
 
 Aufgaben: 
 - Thema 
--
--
+
 
 Mitglieder:
 - Marco   (Head)
@@ -63,9 +62,7 @@ Mitglieder:
 # Team - Dokumentation:
 
 Aufgaben: 
--
--
-- 
+
 
 Mitglieder:
 - Kai Kuckein  (Head)
