@@ -2,11 +2,11 @@ Projekt-X
 =========
 
 Teammeetings: 
-1) 25.04.2014 
-2) 
-3)
-4)
-5) 
+- 25.04.2014 
+-  
+- 
+- 
+-  
 
 
 # Team - Organisation:
