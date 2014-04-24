@@ -12,65 +12,65 @@ Teammeetings:
 # Team - Organisation:
 
 Aufgaben:
-+ Termine
-+ Milestones
--- Leitung Team-Meetings
--- Termin-Einhaltung
+- Termine
+- Milestones
+- Leitung Team-Meetings
+- Termin-Einhaltung
 
+Mitglieder:
 - Daniel Flad
 - Katja 
-
-
----------------------------------------------------
 
 # Team - Programmierung:
 
 Aufgaben: 
--- HTML & CSS
--- Grundgerüst usw. 
--- JSP / Skript / PHP ...
+- HTML & CSS
+- Grundgerüst usw. 
+- JSP / Skript / PHP ...
 
+Mitglieder:
 - Adrian  (Head)
 - Marcel Bade
 - Dennis Bohro
 
 
----------------------------------------------------
 
 # Team - Design:
 
 Aufgaben: 
--- Unterstützung Programmier-Team
--- Icons/ Logos/ Banner/ Bilder
--- Wireframe / Layout
--- Photoshop...
+- Unterstützung Programmier-Team
+- Icons/ Logos/ Banner/ Bilder
+- Wireframe / Layout
+- Photoshop...
 
+Mitglieder:
 - Jan Niebauer  (Head)
 - Nina Barthelmäß
 - Daniel Flad
 
----------------------------------------------------
 
 # Team - Inhalt:
 
 Aufgaben: 
--- Thema? 
+- Thema? 
+-
+-
 
-
-
+Mitglieder:
 - Marco   (Head)
 - Katja 
 - Thomas Hügler
 
----------------------------------------------------
 
-Team - Dokumentation:
+
+# Team - Dokumentation:
 
 Aufgaben: 
---
---
--- 
+-
+-
+- 
 
+Mitglieder:
 - Kai Kuckein  (Head)
 - Thomas Hügler
 - Nina Barthelmäß
