@@ -49,7 +49,7 @@ Mitglieder:
 # Team - Inhalt:
 
 Aufgaben: 
-- Thema? 
+- Thema 
 -
 -
 
