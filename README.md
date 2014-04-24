@@ -8,15 +8,14 @@ Teammeetings:
 4)
 5) 
 
-///////////////////////////////////////////////////
 
-Team - Organisation:
+# Team - Organisation:
 
 Aufgaben:
-# Termine
-# Milestones
-# Leitung Team-Meetings
-# Termin-Einhaltung
+-- Termine
+-- Milestones
+-- Leitung Team-Meetings
+-- Termin-Einhaltung
 
 - Daniel Flad
 - Katja 
@@ -24,12 +23,12 @@ Aufgaben:
 
 ---------------------------------------------------
 
-Team - Programmierung:
+# Team - Programmierung:
 
 Aufgaben: 
-# HTML & CSS
-# Grundgerüst usw. 
-# JSP / Skript / PHP ...
+-- HTML & CSS
+-- Grundgerüst usw. 
+-- JSP / Skript / PHP ...
 
 - Adrian  (Head)
 - Marcel Bade
@@ -38,13 +37,13 @@ Aufgaben:
 
 ---------------------------------------------------
 
-Team - Design:
+# Team - Design:
 
 Aufgaben: 
-# Unterstützung Programmier-Team
-# Icons/ Logos/ Banner/ Bilder
-# Wireframe / Layout
-# Photoshop...
+-- Unterstützung Programmier-Team
+-- Icons/ Logos/ Banner/ Bilder
+-- Wireframe / Layout
+-- Photoshop...
 
 - Jan Niebauer  (Head)
 - Nina Barthelmäß
@@ -52,12 +51,12 @@ Aufgaben:
 
 ---------------------------------------------------
 
-Team - Inhalt:
+# Team - Inhalt:
 
 Aufgaben: 
-# Thema? 
-# 
-#
+-- Thema? 
+
+
 
 - Marco   (Head)
 - Katja 
@@ -68,9 +67,9 @@ Aufgaben:
 Team - Dokumentation:
 
 Aufgaben: 
-# 
-#
-#
+--
+--
+-- 
 
 - Kai Kuckein  (Head)
 - Thomas Hügler
