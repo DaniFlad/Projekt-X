@@ -12,8 +12,8 @@ Teammeetings:
 # Team - Organisation:
 
 Aufgaben:
--- Termine
--- Milestones
++ Termine
++ Milestones
 -- Leitung Team-Meetings
 -- Termin-Einhaltung
 
@@ -76,7 +76,7 @@ Aufgaben:
 - Nina Barthelmäß
 
 
-///////////////////////////////////////////////////
+
 
 
 Projekt: Dynamische Webseite
