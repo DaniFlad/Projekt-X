@@ -3,10 +3,7 @@ Projekt-X
 
 Teammeetings: 
 - 25.04.2014 
--  
-- 
-- 
--  
+
 
 
 # Team - Organisation:
