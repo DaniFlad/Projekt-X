@@ -1,6 +1,85 @@
 Projekt-X
 =========
 
+Teammeetings: 
+1) 25.04.2014 
+2) 
+3)
+4)
+5) 
+
+///////////////////////////////////////////////////
+
+Team - Organisation:
+
+Aufgaben:
+# Termine
+# Milestones
+# Leitung Team-Meetings
+# Termin-Einhaltung
+
+- Daniel Flad
+- Katja 
+
+
+---------------------------------------------------
+
+Team - Programmierung:
+
+Aufgaben: 
+# HTML & CSS
+# Grundgerüst usw. 
+# JSP / Skript / PHP ...
+
+- Adrian  (Head)
+- Marcel Bade
+- Dennis Bohro
+
+
+---------------------------------------------------
+
+Team - Design:
+
+Aufgaben: 
+# Unterstützung Programmier-Team
+# Icons/ Logos/ Banner/ Bilder
+# Wireframe / Layout
+# Photoshop...
+
+- Jan Niebauer  (Head)
+- Nina Barthelmäß
+- Daniel Flad
+
+---------------------------------------------------
+
+Team - Inhalt:
+
+Aufgaben: 
+# Thema? 
+# 
+#
+
+- Marco   (Head)
+- Katja 
+- Thomas Hügler
+
+---------------------------------------------------
+
+Team - Dokumentation:
+
+Aufgaben: 
+# 
+#
+#
+
+- Kai Kuckein  (Head)
+- Thomas Hügler
+- Nina Barthelmäß
+
+
+///////////////////////////////////////////////////
+
+
 Projekt: Dynamische Webseite
 ----------------------------
 Vorgehen:
