@@ -1,24 +1,22 @@
 Projekt-X
 =========
 
-(Wireframe -> Mockflow.de)
-
 
 Teammeetings: 
 - 25.04.2014 
-
+- 06.05.2014 
 
 
 # Team - Organisation:
 
 Aufgaben:
-- Termine
+- Termine / Anmeldungen
 - Milestones
 - Leitung Team-Meetings
 - Termin-Einhaltung
 
 Mitglieder:
-- Daniel Flad
+- Daniel Flad (head)
 - Katja 
 
 # Team - Programmierung:
@@ -34,13 +32,12 @@ Mitglieder:
 - Dennis Bohro
 
 
-
 # Team - Design:
 
 Aufgaben: 
 - Unterstützung Programmier-Team
 - Icons/ Logos/ Banner/ Bilder
-- Wireframe / Layout
+- Wireframe / Layout (Wireframe -> Mockflow.de)
 - Photoshop...
 
 Mitglieder:
@@ -53,10 +50,10 @@ Mitglieder:
 
 Aufgaben: 
 - Thema 
-
+- Bilder/ Texte 
 
 Mitglieder:
-- Marco   (Head)
+- Marco   (head)
 - Katja 
 - Thomas Hügler
 
@@ -65,7 +62,7 @@ Mitglieder:
 # Team - Dokumentation:
 
 Aufgaben: 
-
+- Dokumentaton :) 
 
 Mitglieder:
 - Kai Kuckein  (Head)
