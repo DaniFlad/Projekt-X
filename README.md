@@ -67,7 +67,7 @@ Aufgaben:
 Mitglieder:
 - Kai Kuckein  (Head)
 - Thomas Hügler
-- Nina Barthelmäß
+- Nina Barthelmäs
 
 
 
