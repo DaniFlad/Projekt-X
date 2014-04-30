@@ -1,4 +1,4 @@
-Projekt-X
+﻿Projekt-X
 =========
 
 
@@ -17,7 +17,7 @@ Aufgaben:
 
 Mitglieder:
 - Daniel Flad (head)
-- Katja 
+- Katja Selbach
 
 # Team - Programmierung:
 
@@ -42,7 +42,7 @@ Aufgaben:
 
 Mitglieder:
 - Jan Niebauer  (Head)
-- Nina Barthelmäß
+- Nina Barthelmäs
 - Daniel Flad
 
 
@@ -53,8 +53,8 @@ Aufgaben:
 - Bilder/ Texte 
 
 Mitglieder:
-- Marco   (head)
-- Katja 
+- Marco Berchtold (head)
+- Katja Selbach
 - Thomas Hügler
 
 
