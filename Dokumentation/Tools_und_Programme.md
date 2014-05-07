@@ -21,9 +21,9 @@ Auf diesen Umgebungen (Betriebssystemen) wurde die Webseite getestet:
 
 
 
-*******************************
+*************************
 Team Design
-*******************************
+**********************
 
 Die Verwendeten Tools / Programme:
 
@@ -35,9 +35,9 @@ Quellen für die Bilder:
 
 
 
-*******************************
+**********************
 Team Inhalt
-*******************************
+**********************
 
 Tools:
 
