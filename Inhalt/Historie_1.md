@@ -12,8 +12,20 @@
 <td>Gründung des Zoos mit rund 50 Mitarbeitern durch Joachim Günther, welcher zudem die Stelle des Zoodirektors beansprucht. Der Tierpark umfasst 1000 Tiere aus etwa 200 Arten. </td>
 </tr>
 <tr>
+<td class="grey">1956</td>
+<td>Es beginnt die Haltung von Giraffen, Zebras und Antilopen. Die ersten Pinguine kommen in die Wilhelma.</td>
+</tr>
+<tr>
+<td class="grey">1957</td>
+<td>Das umgestaltete Interims-Aquarium wird als Vögel- und Kleinsäugerhaus eröffnet.</td>
+</tr>
+<tr>
 <td class="grey">1960</td>
 <td>Der Zoo mit einem Affenhaus erweitert, in welchem nun über 60 Affen Platz finden, die 8 verschiedenen Arten angehören.</td>
+</tr>
+<tr>
+<td class="grey">1964</td>
+<td>Die "Wildlife Zoo" erhält den Status eines Wirtschaftsbetriebes des Landes Bayern und kann somit selbstständiger wirtschaften als zuvor.</td>
 </tr>
 <tr>
 <td class="grey">1967</td>
