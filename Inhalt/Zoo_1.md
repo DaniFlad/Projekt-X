@@ -1,0 +1,5 @@
+Der „Wildlife Zoo“ ist an allen 365 Tagen im Jahr für seine Besucher aus nah und fern geöffnet - auch am Heiligabend und Silvester. 
+Auf 190 ha Fläche finden Sie einen Landschaftstierpark, der seines Gleichen sucht. Großzügige Freianlagen für Huftierherden, große Wasserflächen für Gänsevögel und Flamingos sowie imposante Tierhäuser (Joachim-Günther-Haus für Großkatzen und tropische Vögel, Dickhäuterhaus für Elefanten, Nashörner und Seekühe, Kolibri-Krokodil-Haus und Haus für afrikanische Primaten) erwarten Sie. Ein Besuch in der Schlangenfarm zeigt eine der umfangreichsten Sammlungen an Giftschlangen in einem europäischen Schauterrarium. Insgesamt beschäftigen wir rund 300 Mitarbeiter in vielfältigen Bereichen, u.a. Tierpflege, Tiermedizin, Verwaltung. Mit über  9000 Tieren aus 1200 verschiedenen Arten zählt der „Wildlife Zoo“ zudem zu den größten Tierparks in Deutschland.
+
+Über 3 Millionen Besucher kommen jährlich in den Zoo, um sich zu erholen und zu entspannen. Beim Tierparkbesuch erfahren Sie viel Wissenswertes über das Leben der Tiere und können diese hautnah erleben.
+
